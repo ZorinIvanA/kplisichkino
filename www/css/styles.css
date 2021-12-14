@@ -127,7 +127,7 @@ h1{
 
 .treeHTML {
 	width:500px;
-    text-align: center;
+    text-align: left;
     margin: 0 auto;
 }
 
@@ -150,7 +150,7 @@ h1{
 .cu {
     display: inline-block;
 	width:500px;
-	text-align: center;
+	text-align: justify;
 	line-height: 1.25;
     color: black;
     font-weight: 400;
@@ -163,4 +163,9 @@ h1{
     float:left;
 	font-size: 24px;
 	width:500px;
+	margin: 10px 0;
 }
+
+
+
+
