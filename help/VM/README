@@ -1,0 +1,26 @@
+VM esx!
+Мы так же собрали готовые образы, на основе: 
+
+
+Linux DEBIAN
+Linux UBUNTU
+FreeBSD
+
+https://drive.google.com/drive/folders/1Cw3Bp1bfsqQA4ijhbpmkKwxOMxFUJBGx?usp=sharing
+
+Данные образы уже включают настроенное серверное ПО со всей системой, готовой к работе.
+
+
+Для Linux-дистрибутивов, установлена VESTA-хостинг панель. 
+По умолчанию приём IP на интерфейсе от DHCP-сервера.
+
+SSH: логин: zenlix, пароль: 1234
+
+
+VESTA: http://ip:8083/
+Логин: admin, пароль: 1234
+
+
+ZENLIX: http://yourdomain.com/ (должен быть прописан в Вашем файле hosts)
+
+Логин: system, пароль: 1234
